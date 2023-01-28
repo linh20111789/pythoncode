@@ -1,0 +1,11 @@
+                   Apple Stock Analysis 2020 and 2021 
+                           2020                 2021                Total
+Max Volume (Date) 	2020-07-31          2021-12-17           569769500
+Min Volume (Date) 	2020-11-27          2021-11-11            87691300
+Lowest Open (Date) 	2020-05-01          2021-03-09          190.592499
+Highest Close (Date) 	2020-12-28          2021-12-27          317.020004
+Highest Monthly 
+Average (Month) 	  December            December          304.240457
+Lowest Monthly 
+Average (Month) 	       May               March          197.000033
+Annual Average 		 143322555            90524627           233847182

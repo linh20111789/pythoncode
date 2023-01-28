@@ -1,0 +1,12 @@
+Nam Tr?n
+vì trong test data k?t qu? d? e so sánh thì có d?ng là [([0, 1], [4], 'POS')] 
+nên e mu?n chuy?n t? d?ng (boot time is , fast, P) v? s? d? ti?n so sánh ý ?
+
+cho 2 string: "Boot time is super fast , around anywhere from 35 seconds to 1 minute ."
+và (boot time is , fast, P)
+Em mu?n in ra nhu sau:
+[([0, 1, 2], [4], 'POS')]
+trong dó
+[0,1,2] là v? trí c?a "boot time is" trong string 
+[4] là v? trí c?a "fast" trong string
+'POS' tuong ?ng v?i P

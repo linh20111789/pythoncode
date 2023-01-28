@@ -1,0 +1,410 @@
+[{
+  "_id": {
+    "$oid": "63b55ec023d21b9f24d834b8"
+  },
+  "game": "3",
+  "Game_Feed": [
+    {
+      "Event": 1,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Keaton",
+      "Action": "kills",
+      "Player": "BK",
+      "Role": "(Crew).",
+      "Game Feed": "Keaton (Impostor) kills BK (Crew).",
+      "Day": 1,
+      "Votes Off Code": "",
+      "Vote ID": "",
+      "Day 1 vote": "",
+      "Crew Alive": 8,
+      "Impostors Alive": 2,
+      "Score": "8-2"
+    },
+    {
+      "Event": 2,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Keaton",
+      "Action": "finds body of",
+      "Player": "BK",
+      "Role": "(Crew).",
+      "Game Feed": "Keaton (Impostor) finds body of BK (Crew).",
+      "Day": 1,
+      "Votes Off Code": 0,
+      "Vote ID": "3-1",
+      "Day 1 vote": "Skipped Vote.",
+      "Crew Alive": 7,
+      "Impostors Alive": 2,
+      "Score": "7-2"
+    },
+    {
+      "Event": 3,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Crew",
+      "Action": "skips voting.",
+      "Player": "",
+      "Role": "",
+      "Game Feed": "Crew skips voting.",
+      "Day": 1,
+      "Votes Off Code": "",
+      "Vote ID": "",
+      "Day 1 vote": "",
+      "Crew Alive": 7,
+      "Impostors Alive": 2,
+      "Score": "7-2"
+    },
+    {
+      "Event": 4,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Keaton",
+      "Action": "kills",
+      "Player": "zlubars",
+      "Role": "(Crew).",
+      "Game Feed": "Keaton (Impostor) kills zlubars (Crew).",
+      "Day": 2,
+      "Votes Off Code": "",
+      "Vote ID": "",
+      "Day 1 vote": "",
+      "Crew Alive": 7,
+      "Impostors Alive": 2,
+      "Score": "7-2"
+    },
+    {
+      "Event": 5,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Mani",
+      "Action": "finds body of",
+      "Player": "zlubars",
+      "Role": "(Crew).",
+      "Game Feed": "Mani (Crew) finds body of zlubars (Crew).",
+      "Day": 2,
+      "Votes Off Code": 2,
+      "Vote ID": "3-2",
+      "Day 1 vote": "Impostor voted off.",
+      "Crew Alive": 6,
+      "Impostors Alive": 2,
+      "Score": "6-2"
+    },
+    {
+      "Event": 6,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Crew",
+      "Action": "votes off",
+      "Player": "Keaton",
+      "Role": "(Impostor).",
+      "Game Feed": "Crew votes off Keaton (Impostor).",
+      "Day": 2,
+      "Votes Off Code": "",
+      "Vote ID": "",
+      "Day 1 vote": "",
+      "Crew Alive": 6,
+      "Impostors Alive": 2,
+      "Score": "6-2"
+    },
+    {
+      "Event": 7,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Dreamy",
+      "Action": "kills",
+      "Player": "wrapter",
+      "Role": "(Crew).",
+      "Game Feed": "Dreamy (Impostor) kills wrapter (Crew).",
+      "Day": 3,
+      "Votes Off Code": "",
+      "Vote ID": "",
+      "Day 1 vote": "",
+      "Crew Alive": 6,
+      "Impostors Alive": 1,
+      "Score": "6-1"
+    },
+    {
+      "Event": 8,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Dreamy",
+      "Action": "finds body of",
+      "Player": "wrapter",
+      "Role": "(Crew).",
+      "Game Feed": "Dreamy (Impostor) finds body of wrapter (Crew).",
+      "Day": 3,
+      "Votes Off Code": 2,
+      "Vote ID": "3-3",
+      "Day 1 vote": "Impostor voted off.",
+      "Crew Alive": 5,
+      "Impostors Alive": 1,
+      "Score": "5-1"
+    },
+    {
+      "Event": 9,
+      "Map": "Polus",
+      "Outcome": "",
+      "Player/Team": "Crew",
+      "Action": "votes off",
+      "Player": "Dreamy",
+      "Role": "(Impostor).",
+      "Game Feed": "Crew votes off Dreamy (Impostor).",
+      "Day": 3,
+      "Votes Off Code": "",
+      "Vote ID": "",
+      "Day 1 vote": "",
+      "Crew Alive": 5,
+      "Impostors Alive": 1,
+      "Score": "5-1"
+    },
+    {
+      "Event": 10,
+      "Map": "Polus",
+      "Outcome": "3-End",
+      "Player/Team": "",
+      "Action": "Crew Win - Voting",
+      "Player": "",
+      "Role": "",
+      "Game Feed": "Crew Win - Voting",
+      "Day": 4,
+      "Votes Off Code": "",
+      "Vote ID": "",
+      "Day 1 vote": "",
+      "Crew Alive": 5,
+      "Impostors Alive": 0,
+      "Score": "5-0"
+    }
+  ],
+  "player_data": [
+    {
+      "Player": 1,
+      "name": "LSV",
+      "Role": "(Crew)",
+      "Color": "Red"
+    },
+    {
+      "Player": 2,
+      "name": "wrapter",
+      "Role": "(Crew)",
+      "Color": "Cyan"
+    },
+    {
+      "Player": 3,
+      "name": "zlubars",
+      "Role": "(Crew)",
+      "Color": "Green"
+    },
+    {
+      "Player": 4,
+      "name": "BK",
+      "Role": "(Crew)",
+      "Color": "Brown"
+    },
+    {
+      "Player": 5,
+      "name": "Mani",
+      "Role": "(Crew)",
+      "Color": "Orange"
+    },
+    {
+      "Player": 6,
+      "name": "5up",
+      "Role": "(Crew)",
+      "Color": "Pink"
+    },
+    {
+      "Player": 7,
+      "name": "Eirik",
+      "Role": "(Crew)",
+      "Color": "White"
+    },
+    {
+      "Player": 8,
+      "name": "dokomoy",
+      "Role": "(Crew)",
+      "Color": "Blue"
+    },
+    {
+      "Player": 9,
+      "name": "Keaton",
+      "Role": "(Impostor)",
+      "Color": "Black"
+    },
+    {
+      "Player": 10,
+      "name": "Dreamy",
+      "Role": "(Impostor)",
+      "Color": "Purple"
+    }
+  ],
+  "voting_data": [
+    {
+      "Vote_Event": "1",
+      "player": 1,
+      "name": "LSV",
+      "Is_alive": "Yes",
+      "Vote": "1-LSV-Skipped Vote."
+    },
+    {
+      "Vote_Event": "1",
+      "player": 2,
+      "name": "wrapter",
+      "Is_alive": "Yes",
+      "Vote": "1-wrapter-Skipped Vote."
+    },
+    {
+      "Vote_Event": "1",
+      "player": 3,
+      "name": "zlubars",
+      "Is_alive": "Yes",
+      "Vote": "1-zlubars-Skipped Vote."
+    },
+    {
+      "Vote_Event": "1",
+      "player": 4,
+      "name": "BK",
+      "Is_alive": "No",
+      "Vote": "1-BK-Dead"
+    },
+    {
+      "Vote_Event": "1",
+      "player": 5,
+      "name": "Mani",
+      "Is_alive": "Yes",
+      "Vote": "1-Mani-Skipped Vote."
+    },
+    {
+      "Vote_Event": "1",
+      "player": 6,
+      "name": "5up",
+      "Is_alive": "Yes",
+      "Vote": "1-5up-Skipped Vote."
+    },
+    {
+      "Vote_Event": "1",
+      "player": 7,
+      "name": "Eirik",
+      "Is_alive": "Yes",
+      "Vote": "1-Eirik-Skipped Vote."
+    },
+    {
+      "Vote_Event": "1",
+      "player": 8,
+      "name": "dokomoy",
+      "Is_alive": "Yes",
+      "Vote": "1-dokomoy-Skipped Vote."
+    },
+    {
+      "Vote_Event": "2",
+      "player": 1,
+      "name": "LSV",
+      "Is_alive": "Yes",
+      "Vote": "2-LSV-Impostor voted off."
+    },
+    {
+      "Vote_Event": "2",
+      "player": 2,
+      "name": "wrapter",
+      "Is_alive": "Yes",
+      "Vote": "2-wrapter-Impostor voted off."
+    },
+    {
+      "Vote_Event": "2",
+      "player": 3,
+      "name": "zlubars",
+      "Is_alive": "No",
+      "Vote": "2-zlubars-Dead"
+    },
+    {
+      "Vote_Event": "2",
+      "player": 4,
+      "name": "BK",
+      "Is_alive": "No",
+      "Vote": "2-BK-Dead"
+    },
+    {
+      "Vote_Event": "2",
+      "player": 5,
+      "name": "Mani",
+      "Is_alive": "Yes",
+      "Vote": "2-Mani-Impostor voted off."
+    },
+    {
+      "Vote_Event": "2",
+      "player": 6,
+      "name": "5up",
+      "Is_alive": "Yes",
+      "Vote": "2-5up-Impostor voted off."
+    },
+    {
+      "Vote_Event": "2",
+      "player": 7,
+      "name": "Eirik",
+      "Is_alive": "Yes",
+      "Vote": "2-Eirik-Impostor voted off."
+    },
+    {
+      "Vote_Event": "2",
+      "player": 8,
+      "name": "dokomoy",
+      "Is_alive": "Yes",
+      "Vote": "2-dokomoy-Impostor voted off."
+    },
+    {
+      "Vote_Event": "3",
+      "player": 1,
+      "name": "LSV",
+      "Is_alive": "Yes",
+      "Vote": "3-LSV-Impostor voted off."
+    },
+    {
+      "Vote_Event": "3",
+      "player": 2,
+      "name": "wrapter",
+      "Is_alive": "No",
+      "Vote": "3-wrapter-Dead"
+    },
+    {
+      "Vote_Event": "3",
+      "player": 3,
+      "name": "zlubars",
+      "Is_alive": "No",
+      "Vote": "3-zlubars-Dead"
+    },
+    {
+      "Vote_Event": "3",
+      "player": 4,
+      "name": "BK",
+      "Is_alive": "No",
+      "Vote": "3-BK-Dead"
+    },
+    {
+      "Vote_Event": "3",
+      "player": 5,
+      "name": "Mani",
+      "Is_alive": "Yes",
+      "Vote": "3-Mani-Impostor voted off."
+    },
+    {
+      "Vote_Event": "3",
+      "player": 6,
+      "name": "5up",
+      "Is_alive": "Yes",
+      "Vote": "3-5up-Impostor voted off."
+    },
+    {
+      "Vote_Event": "3",
+      "player": 7,
+      "name": "Eirik",
+      "Is_alive": "Yes",
+      "Vote": "3-Eirik-Impostor voted off."
+    },
+    {
+      "Vote_Event": "3",
+      "player": 8,
+      "name": "dokomoy",
+      "Is_alive": "Yes",
+      "Vote": "3-dokomoy-Impostor voted off."
+    }
+  ]
+}]

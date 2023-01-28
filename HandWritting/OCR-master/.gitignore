@@ -1,0 +1,10 @@
+.Python
+bin/
+include/
+
+pip-selfcheck.json
+
+/.DS_Store
+.DS_Store
+
+model
